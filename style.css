@@ -2,3 +2,9 @@ body {
 
     background-color: rgb(4, 4, 224);
 }''
+
+h1{
+font-size: 100px;
+color: blue;
+text-transform: lowercase;
+}
